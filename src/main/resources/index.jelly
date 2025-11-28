@@ -1,0 +1,4 @@
+<?jelly escape-by-default='true'?>
+<div>
+    GCP Secrets Manager backend for Jenkins CasC SecretSource
+</div>
